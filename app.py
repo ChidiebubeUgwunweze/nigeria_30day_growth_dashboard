@@ -164,4 +164,4 @@ def get_growth_metrics(selected_date):
     return bar_fig, map_fig
     
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True) 

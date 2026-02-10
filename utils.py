@@ -38,3 +38,4 @@ def state_centers():
                                                                                         "Yobe": {"lat": 12.00, "lon": 11.50},
                                                                                           "Zamfara": {"lat": 12.17, "lon": 6.66} }
     return state_centers
+ 
