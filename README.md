@@ -80,13 +80,17 @@ This allows instant identification of **regional performance differences**.
 ## 📂 Project Structure
 <pre>
 ├── .gitignore             # gitignore file
-├── app.py                 # Main Dash application              
-├── data/
+├── app.py                 # Main Dash application 
+├── screenshots/            # screenshots folder
+│   ├── bar_chart.png       # bar chart image
+│   └──nigerian_map.png     # nigerian map image
+│              
+├── data/                  # data folder
 │   ├── data.parquet       # Cleaned dataset
 │   ├──ng.json            # Nigeria GeoJSON
 │   └── utils.py          # State center coordinates
-├── requirements.txt
-└── README.md
+├── requirements.txt      # contains all library versions needed to run the program
+└── README.md             # What you are reading now
 </pre>
 
 ---
