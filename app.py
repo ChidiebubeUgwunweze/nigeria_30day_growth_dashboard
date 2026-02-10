@@ -1,6 +1,6 @@
 import dash
 from dash import html, dcc, Input, Output
-from utils import state_centers
+from data.utils import state_centers
 import plotly.graph_objects as go
 import plotly.express as px
 import pandas as pd

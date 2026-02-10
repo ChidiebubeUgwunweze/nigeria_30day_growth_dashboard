@@ -79,11 +79,12 @@ This allows instant identification of **regional performance differences**.
 
 ## 📂 Project Structure
 <pre>
-├── app.py                 # Main Dash application
-├── utils.py               # State center coordinates
+├── .gitignore             # gitignore file
+├── app.py                 # Main Dash application              
 ├── data/
 │   ├── data.parquet       # Cleaned dataset
-│   └── ng.json            # Nigeria GeoJSON
+│   ├──ng.json            # Nigeria GeoJSON
+│   └── utils.py          # State center coordinates
 ├── requirements.txt
 └── README.md
 </pre>
