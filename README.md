@@ -69,7 +69,7 @@ This allows instant identification of **regional performance differences**.
 
 ## 🛠️ Tech Stack
 
-- **Python**
+- **Python** - Programming language
 - **Dash** – Interactive dashboard framework  
 - **Plotly** – Charts and geospatial visualization  
 - **Pandas** – Data processing and analytics  
@@ -128,18 +128,19 @@ This system can be adepted for:
 - Sales performance tracking
 - Energy distribution monitoring
 - Government & NGO reporting
-- Regional KPI dashboards
+- Regional KPI dashboards    
 The analytics logic is data-agnostic and can be reused with different datasets.
 
 ---
 
-🔍 Why This Project Matters
+## 🔍 Why This Project Matters
+
 This Project demonstrates:
 - Real-world data cleaning and transformation
 - Time-series analytics
 - Rolling window performance evaluation
 - Geographic data visualization
-- Building production-style interactive dashboards
+- Building production-style interactive dashboards   
 It goes beyond plotting data by **turning metrics into insight**.
 
 ---
@@ -153,7 +154,7 @@ It goes beyond plotting data by **turning metrics into insight**.
 
 ## 📬 Author
 
-**Eze Ugwunweze**
+**Eze Ugwunweze**   
 Python / Data Analytics / Visualization
 
  
